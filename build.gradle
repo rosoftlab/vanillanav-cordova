@@ -1,0 +1,15 @@
+repositories {
+    maven {
+        url "https://jitpack.io"
+    }
+}
+
+cdvPluginPostBuildExtras.add({
+    android {
+
+        dependencies {
+            compile 'com.github.rosoftlab:vanillanav-loader:39ed840@aar'
+        }
+
+    }
+})
