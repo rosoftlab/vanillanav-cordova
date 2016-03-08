@@ -23,7 +23,7 @@
         <platform name="ios">
             <config-file target="config.xml" parent="/*">
             </config-file>
-            <dependency id="com.ohh2ahh.plugins.appavailability" url="https://github.com/ohh2ahh/AppAvailability" commit="0.3.1" subdir="plugins/appavailability" />
+            <dependency id="com.ohh2ahh.plugins.appavailability" url="https://github.com/ohh2ahh/AppAvailability" subdir="plugins/appavailability" />
         </platform>
         
     </plugin>
