@@ -8,7 +8,7 @@
         <js-module src="www/vn.js" name="device">
             <clobbers target="vanillaNav" />
         </js-module>
-        <dependency id="cordova-plugin-device" subdir="plugins/deviceplatform" />
+<!--        <dependency id="cordova-plugin-device" subdir="plugins/deviceplatform" />-->
 
 
         <platform name="android">
